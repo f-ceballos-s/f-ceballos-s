@@ -1,0 +1,13 @@
+---
+output:
+  html_document:
+    css: style.css
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Prior to starting my PhD, I grew coffee in my personal farm, and held field agronomist and extension agent positions across Colombia that exposed me to the social and economic issues faced by rural communities. I took these issues to the [Department of Agricultural and Consumer Economics of the University of Illinois at Urbana-Champaign](https://ace.illinois.edu/) and build a research agenda that provides evidence-based tools for addressing the challenges of climate variability for coffee cultivation, proposes novel methods for technology diffusion that leverage within-family channels of information exchange, and improves the understanding of the impact of conflict resolution processes on legal and illegal economic activity in rural areas. Simultaneously, I have led grant-writing activities that gave way to research projects in Nicaragua and the International Center for Tropical Agriculture in Colombia. 
+
+I also leverage my experience as an extension agent and my passion for knowledge (and technology) diffusion to improve the quality of my teaching. I do count with one advantage when building tutoring relationships: I have been the frustrated coffee grower receiving agricultural advice and I have been the challenged economics student who is having his first economics lecture at the graduate level. Therefore, I know how to convey knowledge such that it is understood by the audience, adjusting the message to the setting and capabilities of whoever is learning. I tested these skills as a teaching assistant and occasional substitute lecturer for the intermediate level courses on the world food economy and applied statistical methods. 

@@ -1,0 +1,8 @@
+---
+title: "Curriculum Vitae"
+output:
+  html_document:
+    css: style.css
+---
+
+My CV can be downloaded from here: [CV](https://pdfhost.io/v/nnBRq7hcR_CV_Federico_Ceballos_Sierrapdf.pdf)
