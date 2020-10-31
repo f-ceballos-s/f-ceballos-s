@@ -1,6 +1,0 @@
----
-title: "Curriculum Vitae"
-output: html_document
----
-
-My CV can be downloaded from here: [CV](https://drive.google.com/file/d/1in42a_y0BpnQUxEgjdNnlJ3D8jsqwiNF/view?usp=sharing) (Last updated: 29/08/2020)
