@@ -8,7 +8,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "Data Analysis"
-      href: analysis.html
+      href: data.html
     - text: "CV"
       href: cv.html
   right:

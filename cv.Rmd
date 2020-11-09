@@ -5,4 +5,4 @@ output:
     css: style.css
 ---
 
-My CV can be downloaded from here: [CV](https://pdfhost.io/v/nnBRq7hcR_CV_Federico_Ceballos_Sierrapdf.pdf)
+My CV can be downloaded from here: [CV](http://publish.illinois.edu/fceballoss/files/2020/11/CV_Federico_Ceballos_Sierra-1.pdf)
