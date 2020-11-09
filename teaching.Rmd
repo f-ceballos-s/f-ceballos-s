@@ -4,6 +4,11 @@ output:
     css: style.css
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 # Teaching
 
 I leverage my experience as an extension agent and my passion for knowledge (and technology) diffusion to improve the quality of my teaching. I do count with one advantage when building tutoring relationships: I have been the frustrated coffee grower receiving agricultural advice and I have been the challenged economics student who is having his first economics lecture at the graduate level. Therefore, I know how to convey knowledge such that it is understood by the audience, adjusting the message to the setting and capabilities of whoever is learning. I tested these skills as a teaching assistant and occasional substitute lecturer for the intermediate level courses on the world food economy and applied statistical methods. I was also the team leader for the Research Apprentice Program of the College of Agricultural, Consumer and Environmental Sciences, which offered minority high school students from the Chicago area the opportunity to discover the careers offered by the College through a syllabus designed to foster their research curiosity.

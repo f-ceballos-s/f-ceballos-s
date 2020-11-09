@@ -4,10 +4,15 @@ output:
     css: style.css
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 # Data Analysis
 
 Quantity and quality of data is no longer a privilege of developed countries. Remotely sensed data, access to cell phones, and a push to formalizing economic transactions - among others - have increased the amount of data available. Recongnizing its usefulness, I have incorporated data-intensive statistical learning methods into my research. Currently, I have two projects that leverage these methods: 
 
-(i) crop shifting dynamics in Colombia's coffee region, funded by the Global Food Security Fellowship and in Collaboration with the International Center for Tropical Agriculture (See sample code here: [Sample code](https://github.com/f-ceballos-s/CShift/blob/main/CShift_Data_Gen.R)).
+(i) Crop shifting dynamics in Colombia's coffee region, funded by the Global Food Security Fellowship and in Collaboration with the International Center for Tropical Agriculture (See sample code here: [Sample code](https://github.com/f-ceballos-s/CShift/blob/main/CShift_Data_Gen.R)).
 
 (ii) Machine learning for maximizing the impact of poverty-alleviation programs by improving the selection process.
