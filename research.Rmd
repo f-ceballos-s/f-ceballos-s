@@ -12,7 +12,7 @@ text-align: justify}
 
 ## Working papers
 
-[Incomplete Peace: Unintended Consequences of Partial Conflict Resolution in Multilateral Conflicts](http://publish.illinois.edu/fceballoss/files/2020/11/JMC_FCeballosS.pdf). **Job Market Paper**
+[Incomplete Peace: Unintended Consequences of Partial Conflict Resolution in Multilateral Conflicts](http://publish.illinois.edu/fceballoss/files/2020/12/JMP_FCeballosS.pdf). **Job Market Paper**
 
 This paper provides evidence on the impact of conflict resolution processes (CRPs) in settings of multilateral conflict. Previous studies on CRPs have focused on bilateral conflicts between the State and a single armed group, finding positive impacts on economic activity after the demobilization of the armed group, a phenomenon known as the peace dividend. This paper studies the case where the State is warring multiple armed groups and a peace agreement is reached with only one of them. I find that the impact of a CRP in this setting is heterogeneous: areas where the sole armed group demobilized, experience an increase in economic activity; while areas where the demobilizing group was outlived by another armed group experience no change in economic activity and a surge in illegal economic activity in the form of coca production.
 
